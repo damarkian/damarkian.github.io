@@ -4,3 +4,5 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: About  # <-- about.md
+title: Adrian Mak
+description: Scientist, Engineer, Swimmer, Musician, Father
