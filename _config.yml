@@ -1,4 +1,4 @@
-remote_theme: poole/poole
+remote_theme: pages-themes/minimal@v0.2.0
 title: Adrian Mak
 description: Scientist, Engineer, Swimmer, Musician, Father
 header:
